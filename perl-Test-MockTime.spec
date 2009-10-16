@@ -8,13 +8,13 @@
 Summary:	Test::MockTime - Replaces actual time with simulated time
 #Summary(pl.UTF-8):	
 Name:		perl-Test-MockTime
-Version:	0.09
+Version:	0.12
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Test/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	cc3945c4f8d333a1a9314c0a987ef33a
+# Source0-md5:	de726192bcdd0cef68a07ffdf11d7300
 URL:		http://search.cpan.org/dist/Test-MockTime/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
